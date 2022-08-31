@@ -46,7 +46,8 @@ class GetStarted extends StatelessWidget {
 
                         Image.asset('images/png.png',
 
-                          height: 500,
+                          height: 600,
+                          width: 600,
                         ),
 
 
