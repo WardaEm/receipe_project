@@ -62,7 +62,7 @@ class GetStarted extends StatelessWidget {
                 ) ]
                 )
 
-            // SizedBox(height: 50,),
+
             // Container(child: TextButton(onPressed: (){
             //   Navigator.push(context, MaterialPageRoute(builder: (context)=>Home()));
             // }, child: Text('Get Started',style: TextStyle(color: Colors.deepOrange,fontSize: 30,fontWeight: FontWeight.bold),)))
